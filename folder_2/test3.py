@@ -7,3 +7,4 @@ if __name__ == '__main__':
     print('Random number:', np.random.randn(9,10))
     
     print('Random number:', np.random.randn(9,10))
+    print('Random number:', np.random.randn(9,10))
